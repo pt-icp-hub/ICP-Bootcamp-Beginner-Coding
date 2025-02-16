@@ -1,0 +1,32 @@
+{
+  "name": "beginner_challenge",
+  "image": "ghcr.io/dfinity/icp-dev-env:16",
+  "forwardPorts": [4943, 8080],
+  "portsAttributes": {
+    "4943": {
+      "label": "dfx",
+      "onAutoForward": "ignore"
+    },
+    "8080": {
+      "label": "dev server",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "onCreateCommand": "nohup bash -c 'scripts/setup.sh &'",
+  "postCreateCommand": "",
+  "postAttachCommand": "([ -f nohup.out ] && (cat nohup.out && rm nohup.out)) || exit 0",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dfinity-foundation.vscode-motoko",
+        "ms-python.python",
+        "GitHub.copilot",
+        "esbenp.prettier-vscode"
+      ],
+      "settings": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      }
+    }
+  }
+}
