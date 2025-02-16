@@ -30,9 +30,8 @@ Challenge Overview
 
 **Required Challenge:**
 - Github and Codespace setup
-  - WIP
 - Overview of code structure
-  - WIP
+  - https://www.loom.com/share/6c3bef9e18fc4d32920a01a06aa12d2e
 - Login and user registration / update
   - (part 1) https://www.loom.com/share/ed875f6b86ae41c492ee6b0fe721b402
   - (part 2) https://www.loom.com/share/1bee546548d948f591bfc11de2066359
