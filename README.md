@@ -26,10 +26,11 @@ IC Overview (recorded on a workshop with CS Students):
 - https://www.youtube.com/watch?v=wyHAh9i1cFI
 
 Challenge Overview
-- WIP
+- https://www.loom.com/share/1568cae09f98474ca8e3da46981f5887
 
 **Required Challenge:**
 - Github and Codespace setup
+  - WIP
 - Overview of code structure
   - WIP
 - Login and user registration / update
