@@ -13,16 +13,16 @@ On this challenge, the main goals are:
 This challenge will be in Motoko. We have prepared a Codespace for you, so you don't waste time on local setup and can go directly to the fun part, coding! ⌨️
 
 In this challenge you will:
-- Develop a canister (backend) that logs in with Gmail, with an ICP wallet provider called NFID.
+- Develop a canister (backend) that logs in with Internet Identity.
 - Work on the backend, understanding data structures, packages, stable/dynamic memory, etc.
-- You will allow to setup a user profile and safely store user records (like the results of the AI Model).
+- You will allow to setup a user profile and safely store user records.
 
 ## Tutorial Videos
 
 Tutorial Videos explaining and walking through each of the methods / behaviour expected. 
 Note: Feel free to listen at 1.2x speed 😛
 
-IC Overview (recorded on a recent workshop with CS Students):
+IC Overview (recorded on a workshop with CS Students):
 - https://www.youtube.com/watch?v=wyHAh9i1cFI
 
 Challenge Overview (please ignore the outdated Taikai submission instructions! 😅)
