@@ -32,6 +32,14 @@ Challenge Overview
 - Github and Codespace setup
 - Overview of code structure
   - https://www.loom.com/share/6c3bef9e18fc4d32920a01a06aa12d2e
+
+Note:
+The videos below are reused from a previous bootcamp called AI Hackerhouse.
+A few important changes to be aware of:
+- NFID was changed for II due to an incompatibility with running on a codespace.
+- small improvs / simplification in the frontend and backend.
+
+Videos:
 - Login and user registration / update
   - (part 1) https://www.loom.com/share/ed875f6b86ae41c492ee6b0fe721b402
   - (part 2) https://www.loom.com/share/1bee546548d948f591bfc11de2066359
