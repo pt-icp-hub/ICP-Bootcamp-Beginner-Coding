@@ -23,7 +23,7 @@ Tutorial Videos explaining and walking through each of the methods / behaviour e
 Note: Feel free to listen at 1.2x speed 😛
 
 IC Overview (recorded on a workshop with CS Students):
-- https://www.youtube.com/watch?v=wyHAh9i1cFI
+- https://youtu.be/Cs4SkYcQyJw
 
 Challenge Overview
 - https://www.loom.com/share/1568cae09f98474ca8e3da46981f5887
