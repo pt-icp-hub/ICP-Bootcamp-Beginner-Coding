@@ -38,6 +38,7 @@ The videos below are reused from a previous bootcamp called AI Hackerhouse.
 A few important changes to be aware of:
 - NFID was changed for II due to an incompatibility with running on a codespace.
 - small improvs / simplification in the frontend and backend.
+- updated readme instructions.
 
 Videos:
 - Login and user registration / update
