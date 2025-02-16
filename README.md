@@ -37,3 +37,17 @@ Challenge Overview
   - (part 2) https://www.loom.com/share/1bee546548d948f591bfc11de2066359
 - Store more complex data, like previous model results associated with an User.
   - https://www.loom.com/share/1e7790892d2a459f9193b8ca30074bf6
+
+---
+
+## 📩 Submit Your Project!
+
+🎯 **Completed your challenge? Submit your project here:**  
+📢 [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfRDeUw9sckd9vVmfb9gQKs4btvZRlHLTNBTgN57HdxEnge2w/viewform?usp=dialog)  
+
+📌 **Want to explore more challenges? Return to the index:**  
+🔗 [ICP Bootcamp Index](https://github.com/pt-icp-hub/ICP-Bootcamp-Index?tab=readme-ov-file) 
+
+---
+
+🚀 **Happy Coding & Welcome to the Internet Computer!** 🚀
