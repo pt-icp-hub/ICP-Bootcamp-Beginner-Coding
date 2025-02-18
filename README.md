@@ -28,16 +28,23 @@ IC Overview (recorded on a workshop with CS Students):
 Challenge Overview
 - https://www.loom.com/share/1568cae09f98474ca8e3da46981f5887
 
-**Required Challenge:**
+**Required Features for this Challenge:**
 - Github and Codespace setup
 - Overview of code structure
   - https://www.loom.com/share/6c3bef9e18fc4d32920a01a06aa12d2e
+- Login and user registration / update
+- Store more complex data, like previous model results associated with an User.
 
 Note:
+A video was recorded showing how to do the first part of this challenge, it's more up to date than the ones below, but please try to see them all (at 1.2x speed perhaps), since there could be areas that are explained in more detail on the outdated videos.
+- Recording: https://drive.google.com/file/d/19jESLIweS3SlPK7Cg6FCCDZAIqElvCxc/view?usp=sharing
+
+Note 2:
 The videos below are reused from a previous bootcamp called AI Hackerhouse.
 A few important changes to be aware of:
 - NFID was changed for II due to an incompatibility with running on a codespace.
 - small improvs / simplification in the frontend and backend.
+- merged the "set ID" and "set profile name" into a single method.
 - updated readme instructions.
 
 Videos:
