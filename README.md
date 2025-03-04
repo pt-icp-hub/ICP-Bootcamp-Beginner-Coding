@@ -1,6 +1,3 @@
-## 🎥 Overview Video
-https://2ly.link/24xdw
-
 # Beginner Challenge for ICP Bootcamp
 
 Welcome to this tutorial that is for people to get started into ICP, a decentralized cloud built on blockchain technology. Architected for being general purpose, the only limit you have is your imagination. 🙂🚀
@@ -10,6 +7,9 @@ On this challenge, the main goals are:
 - to introduce to IC, showcasing great examples of what is already possible
 - to help you getting started in a quick but still effective way
 - to hopefully convince you the IC stack and ecosystem is a great place to have a Dev career or co-found a startup.
+
+## 🎥 Overview Video
+https://2ly.link/24xdw
 
 ## Challenge Overview
 
